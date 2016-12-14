@@ -1,5 +1,5 @@
 {
-  "name": "contrast",
+  "name": "@s4rb/contrast",
   "version": "1.1.0",
   "description": "Determine if the given color is light or dark",
   "main": "index.js",
